@@ -57,7 +57,7 @@ const App: React.FC = () => {
       <TreeSelect
         showSearch
         dropdownStyle={{ maxHeight: 400, overflow: 'auto', minWidth: 300 }}
-        placeholder="Please select"
+        placeholder="エリアを選択"
         dropdownMatchSelectWidth={false}
         placement={placement}
         allowClear
